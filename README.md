@@ -7,7 +7,7 @@
 
 # SPRINT 2 - ALURA HOTEL CHALLENGE
 
-## INDECE
+## INDICE
 - Descrição do projeto
 - Status do projeto
 - Tecnologias aplicadas
