@@ -5,3 +5,41 @@
 
 </p>
 
+# SPRINT 2 - ALURA HOTEL CHALLENGE
+
+## INDECE
+- Descrição do projeto
+- Status do projeto
+- Tecnologias aplicadas
+- Pessoas contribuidoras
+- Pessoa desenvolvedora
+
+### Descrição do projeto
+- Site onde o usuário poderá cadastrar, registrar, consultar, fazer reserva e calcular o valor da reserva.
+
+### Status do projeto
+- Em desenvolvimento, construindo as lógicas de interação das páginas.
+- Conexão banco de dados funcionando.
+
+### Tecnologias aplicadas
+- Java - Utilizando Eclipse
+- Paradigma de orientação a objetos
+- Banco de dados MySQL
+
+### Pessoas contribuidoras
+- Gênesys - Instrutora One
+- Mafer - Scuba team
+
+### Pessoa desenvolvedora 
+- Marcelo Canno
+
+# Sumário
+
+O Hotel Alura
+
+* Sistema de autenticação do usuário para acessar o sistema.
+* Permite criar uma reserva, editar uma reserva, excluir uma reserva.
+* Pesquisar na base de dados informações sobre cliente, reservas.
+* Permite registrar, editar e excluir dados.
+* Calcular o valor da reserva por dias e valor da diária.
+* Banco de dados para armazenar todos os dados.
